@@ -1,0 +1,20 @@
+README.md
+Start now · Project overview, scope, setup instructions, and current status.
+
+docs/data-model.md
+Now · Ticket fields, types, required values, defaults, and validation rules.
+
+docs/decisions.md
+As decisions happen · Important choices and their trade-offs, such as atomic updates.
+
+Tests
+With every feature · Executable proof that requirements and edge cases work.
+
+API documentation
+When we build the REST API · Endpoints, request/response examples, status codes, and errors.
+
+Database documentation
+When we integrate PostgreSQL · Schema, constraints, relationships, and migrations.
+
+Architecture diagram
+After the main components take shape · How the API, service, repository, database, and later AI components interact.
